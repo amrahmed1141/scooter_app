@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1059162688070",
+    "project_id": "test-4ac5a",
+    "storage_bucket": "test-4ac5a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059162688070:android:399ccd4d8cd2bc1bec1847",
+        "android_client_info": {
+          "package_name": "com.example.scooter_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYPp5watvo-MyNfBe6NW30F_FbXok_oxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
