@@ -64,7 +64,7 @@ class _MapsPageState extends State<MapsPage> {
 
     PolylinePoints polylinePoints = PolylinePoints();
     PolylineResult result = await polylinePoints.getRouteBetweenCoordinates(
-      "AIzaSyCXWTDreWOgX3BjbJoNp2PSSW-DrcLxMd0", // 🟡 Replace with your actual API key
+      "your api key", // 🟡 Replace with your actual API key
       PointLatLng(currentLocation!.latitude!, currentLocation!.longitude!),
       PointLatLng(scooterPosition.latitude, scooterPosition.longitude),
     );
