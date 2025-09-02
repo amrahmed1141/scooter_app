@@ -18,6 +18,7 @@ class _BottomNavState extends State<BottomNav> {
   late HomeScreen homeScreen;
   late RentsPage rentsPage;
   late ProfilePage profilePage;
+  
   @override
   void initState() {
     homeScreen = const HomeScreen();

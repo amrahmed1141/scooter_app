@@ -127,7 +127,7 @@ class _DetailScreenState extends State<DetailScreen>
     return Container(
       padding: const EdgeInsets.all(10),
       decoration: BoxDecoration(
-        color: Colors.grey.shade800,
+        color: scooter.color,
         borderRadius: BorderRadius.circular(15),
       ),
       child: Column(

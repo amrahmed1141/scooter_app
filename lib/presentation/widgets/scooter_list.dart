@@ -37,7 +37,7 @@ class _ScooterListState extends State<ScooterList> {
                     width: double.infinity,
                     padding: const EdgeInsets.all(10),
                     decoration: BoxDecoration(
-                      color: Colors.grey.shade800,
+                      color: widget.scooter[index].color,
                       borderRadius: BorderRadius.circular(15),
                     ),
                     child: Column(
